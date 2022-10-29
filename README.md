@@ -11,7 +11,7 @@
 <p>
 The wind is commonly known for being cool, but Jett is an aggressive agent who has a distinctive, sarcastic personality.<br>Jett also has a cheeky, childish "in-your-face" attitude, seen commonly giving insults for feats she makes on the team and is always spouting her sheer amount of arrogance.<br>Her self-confidence may feel as if she is disregarding her comrades' safety, but she has recognized that it is best to play with a team, albeit with some reluctance.<br>She does show a much more friendly personality towards teammates.<br>Her youth is apparent as she animatedly chats with her allies, and she can sometimes spitball whenever she's excited to share ideas.
 </p>
-<h3>Abilites</h>
+<h2>Abilites</h2>
 <table>
   <tr>
     <th>Ability 1</th>
