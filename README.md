@@ -14,7 +14,7 @@ Jett also has a cheeky, childish "in-your-face" attitude, seen commonly giving i
 Her self-confidence may feel as if she is disregarding her comrades' safety, but she has recognized that it is best to play with a team, albeit with some reluctance.
 She does show a much more friendly personality towards teammates.
 Her youth is apparent as she animatedly chats with her allies, and she can sometimes spitball whenever she's excited to share ideas.
-<pre>
+</pre>
 <h2>Abilites</h2>
 <table>
   <tr>
