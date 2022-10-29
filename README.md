@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html>
+<a href= https://taltech.ee/>Taltechs website</a>
+<p>Student code: 223170</p>
 <head>
 <h1>Valorant agent Jett introduction</h1>
 <img src=https://www.theloadout.com/wp-content/sites/theloadout/2022/06/valorant-jett-icebox-exploit-550x309.jpg>
@@ -25,7 +27,5 @@ The wind is commonly known for being cool, but Jett is an aggressive agent who h
     <td>Tailwind</td>
     <td>Blade storm</td>
   </tr>
-<a href= https://taltech.ee/>Taltechs website</a>
-<p>Student code: 223170</p>
 </body>
 </html>
