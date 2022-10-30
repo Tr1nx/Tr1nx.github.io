@@ -3,13 +3,13 @@
 <a href= https://taltech.ee/>taltechs website</a>
 <p>Student code: 223170</p>
 <head>
-<h1>Valorant agent Jett introduction</h1>
-<img src=https://www.theloadout.com/wp-content/sites/theloadout/2022/06/valorant-jett-icebox-exploit-550x309.jpg>
 <style>
 table, th, td {
-  border: 1px solid;
+  border: 1px solid black;
 }
 </style>
+<h1>Valorant agent Jett introduction</h1>
+<img src=https://www.theloadout.com/wp-content/sites/theloadout/2022/06/valorant-jett-icebox-exploit-550x309.jpg>
 </head>
 <body>
 <h2>Description</h2>
